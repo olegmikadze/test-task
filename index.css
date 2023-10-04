@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.student_info {
+    margin-top: 20px;
+}
+
+.personal_info {
+    border: 1px solid black;
+    padding: 15px 180px;
+}
+
+.task_photo {
+    max-height: 22.520454545454545vw;
+    max-width: 90vw;
+    height: 160.14545454545456px;
+    width: 640px;
+
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://lh4.googleusercontent.com/_BulRbyrS3KzBQ4ZHi_zwuaxdh0KmP1LwINaoLfITnmHP3nF9Dx14CqY57C6IjRm3k4ftnT2OLtiiFfjSTCyU3_w64JfRRS4QLtYBxQY1wj4QLkNiO-_q5fAwzBFHY7Z3Q=w4400);
+}
